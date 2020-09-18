@@ -1,0 +1,11 @@
+C:\ASPNET\SCANER\SCANER\bin\Release\SCANER.exe.config
+C:\ASPNET\SCANER\SCANER\bin\Release\SCANER.exe
+C:\ASPNET\SCANER\SCANER\bin\Release\SCANER.pdb
+C:\ASPNET\SCANER\SCANER\bin\Release\SnmpSharpNet.dll
+C:\ASPNET\SCANER\SCANER\bin\Release\SnmpSharpNet.pdb
+C:\ASPNET\SCANER\SCANER\bin\Release\SnmpSharpNet.xml
+C:\ASPNET\SCANER\SCANER\obj\Release\SCANER.csproj.CoreCompileInputs.cache
+C:\ASPNET\SCANER\SCANER\obj\Release\SCANER.csproj.CopyComplete
+C:\ASPNET\SCANER\SCANER\obj\Release\SCANER.exe
+C:\ASPNET\SCANER\SCANER\obj\Release\SCANER.pdb
+C:\ASPNET\SCANER\SCANER\obj\Release\SCANER.csprojAssemblyReference.cache
